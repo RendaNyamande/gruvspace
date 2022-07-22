@@ -1,1 +1,14 @@
 .env
+venv
+gruvspace/venv
+workspace/__pycache__/
+workspace/migrations/__pycache__/
+gruvspace/__pycache__/
+gruvspace/workspace/migrations
+
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+media
